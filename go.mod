@@ -1,3 +1,3 @@
-module github.com/theadell/monkey
+module monkey
 
 go 1.20
